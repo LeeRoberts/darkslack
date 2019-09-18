@@ -23,7 +23,7 @@ div.c-message.c-message--light.c-message--hover {
 .c-message__sender a {
     font-weight: 600;
     color: white !important;
-    font-size: 14px !important;
+    font-size: 20px !important;
 }
 
 span.c-message__body,
@@ -31,7 +31,7 @@ a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
     color: white;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 0.3px !important;
 }
 
@@ -118,7 +118,7 @@ ts-message .internal_member_link,
 ts-message .internal_user_group_link,
 ts-message .mention {
     color: #fecd8a !important;
-    font-size: 14px;
+    font-size: 20px;
     background: transparent
 }
 
@@ -165,7 +165,7 @@ ts-message .mention {
     color: #fcc973 !important;
     font-weight: 600 !important;
     border: none !important;
-    font-size: 13px;
+    font-size: 19px;
     padding: 0px 2px 1px 2px;
 }
 
@@ -437,7 +437,7 @@ p-search_filter__date:first-child {
 
 .p-search_filter__more_link {
     color: #36D4F6;
-    font-size: 13px;
+    font-size: 19px;
     margin-top: 4px;
 }
 
@@ -465,7 +465,7 @@ p-search_filter__date:first-child {
     padding: 0 .5rem;
     background-color: #545454;
     color: white;
-    font-size: 15px;
+    font-size: 21px;
 }
 
 .p-channel_insights__date_heading::before {
@@ -500,7 +500,7 @@ p-search_filter__date:first-child {
 .c-message--light .c-message__sender .c-message__sender_link {
     color: #a4d677 !important;
     font-weight: 700 !important;
-    font-size: 14px !important;
+    font-size: 20px !important;
 }
 
 .light_theme ts-message .message_content .message_sender {
@@ -561,7 +561,7 @@ p-search_filter__date:first-child {
 }
 
 .p-channel_sidebar {
-    font-size: 14px !important;
+    font-size: 20px !important;
 }
 
 .c-file__meta {
@@ -888,7 +888,7 @@ a.file_download_link:hover {
     height: 20px;
     overflow: hidden;
     line-height: 16px;
-    font-size: 17px;
+    font-size: 23px;
     font-weight: 700;
 }
 
@@ -1249,7 +1249,7 @@ a.c-message__sender_link {
 }
 
 .c-message_kit__file__meta__text {
-    font-size: 12px;
+    font-size: 18px;
     color: #949494 !important;
 }
 
@@ -1531,7 +1531,7 @@ textarea.c-input_textarea.c-input_textarea--with_hint {
     line-height: 1.5;
     padding: 11px 0 11px 11px;
     border-top: 1px solid #4c4c4c;
-    font-size: 14px;
+    font-size: 20px;
     background: #222222;
     color: white;
 }
@@ -1824,7 +1824,7 @@ pre {
 }
 
 .c-menu_item__description {
-    font-size: 13px;
+    font-size: 19px;
     line-height: .9375;
     color: #ababab;
 }
@@ -1997,7 +1997,7 @@ pre {
 #new_channel_modal textarea,
 .p-share_channel_dialog__contents input[type=text],
 .p-share_channel_dialog__contents textarea {
-    font-size: 18px;
+    font-size: 24px;
     margin-bottom: 0;
     background: transparent;
 }
@@ -2089,7 +2089,7 @@ textarea {
 #channel_browser .channel_browser_channel_invite_info,
 #channel_browser .channel_browser_channel_shared_info,
 #channel_browser .channel_browser_private_channel_rollup_info {
-    font-size: 13px;
+    font-size: 19px;
     line-height: 1.38463;
     font-weight: initial;
     color: #c0c0c0;
@@ -2105,7 +2105,7 @@ textarea {
 
 #channel_browser .channel_browser_divider {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 20px;
     width: 100%;
     padding: 4px 0 4px 12px;
     font-weight: 700;
@@ -2132,7 +2132,7 @@ textarea {
 }
 
 #im_browser .im_browser_row .im_display_name_container {
-    font-size: 15px;
+    font-size: 21px;
     line-height: 21px;
     height: 21px;
     color: white;
@@ -2226,7 +2226,7 @@ textarea {
 }
 
 #whats_new_tab p {
-    font-size: 15px;
+    font-size: 21px;
     line-height: 22px;
     color: #ffffff;
 }
@@ -2331,7 +2331,7 @@ textarea {
     -moz-transition: all .4s ease 0s;
     transition: all .4s ease 0s;
     font-weight: 900;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 32px;
     color: white;
 }
@@ -2347,7 +2347,7 @@ textarea {
 c-keyboard_key {
     background: #646464;
     padding: 2px 8px;
-    font-size: 13px;
+    font-size: 19px;
     font-weight: 400;
     min-width: 24px;
     height: 27px;
@@ -2384,7 +2384,7 @@ c-keyboard_key {
 .c-keyboard_key {
     background: #575656;
     padding: 2px 8px;
-    font-size: 13px;
+    font-size: 19px;
     font-weight: 400;
     min-width: 24px;
     height: 27px;
@@ -2418,7 +2418,7 @@ c-keyboard_key {
 }
 
 [lang] .c-message_kit__message {
-    font-size: 15px;
+    font-size: 21px;
     color: white;
 }
 
@@ -2560,7 +2560,7 @@ c-keyboard_key {
     align-items: center;
     padding: 8px 10px;
     line-height: 24px;
-    font-size: 15px;
+    font-size: 21px;
     background: TRANSPARENT !important;
 }
 
@@ -3046,7 +3046,7 @@ ts-message .reply_bar:hover {
 }
 
 .c-message_list__day_divider__label__pill {
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .c-card_carousel__btn {
@@ -3214,7 +3214,7 @@ ts-message .internal_member_link:hover {
 .c-app_badge,
 .c-app_label {
     border-radius: 2px;
-    font-size: 11px;
+    font-size: 19px;
     padding: 1px 3px;
     color: rgba(255, 255, 255, 1) !important;
     background-color: rgb(142, 60, 245);
@@ -3236,7 +3236,7 @@ a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
     color: white;
-    font-size: 14.6px;
+    font-size: 20.6px;
     letter-spacing: -0.3px !important;
 }
 
@@ -3265,7 +3265,7 @@ div.p-message_pane__foreword__description span {
 }
 
 .c-member_slug--link {
-    font-size: 14.6px !important
+    font-size: 20.6px !important
 }
 
 .c-texty_autocomplete {
@@ -3374,7 +3374,7 @@ p-classic_nav__right__search:hover {
 .c-message_kit__replies_count {
     display: flex;
     align-items: center;
-    font-size: 13px;
+    font-size: 19px;
     color: #ffffff !important;
 }
 
@@ -3494,7 +3494,7 @@ p-search_filter__from_name,
 }
 
 .p-member_profile_field__label {
-    font-size: 13px;
+    font-size: 19px;
     color: rgb(255, 255, 255);
 }
 
@@ -3511,7 +3511,7 @@ p-search_filter__from_name,
 }
 
 .p-member_profile_name__title {
-    font-size: 22px;
+    font-size: 28px;
     line-height: 1.36365;
     font-weight: 900;
     color: white;
@@ -3558,7 +3558,7 @@ p-search_filter__from_name,
 
 .p-channel_create_modal__input_subtext {
     padding-top: 4px;
-    font-size: 13px;
+    font-size: 19px;
     line-height: 1.38463;
     font-weight: 400;
     color: rgb(187, 187, 187);
@@ -3571,7 +3571,7 @@ p-search_filter__from_name,
 .p-channel_create_modal__share,
 .p-channel_name_input__label_title,
 .p-invite_users_input__label_title {
-    font-size: 15px;
+    font-size: 21px;
     line-height: 1.46668;
     font-weight: 400;
     color: white !important;
@@ -3589,14 +3589,14 @@ p-search_filter__from_name,
 
 .p-invite_users_input__input_subtext {
     padding-top: 4px;
-    font-size: 13px;
+    font-size: 19px;
     line-height: 1.38463;
     font-weight: 400;
     color: rgb(255, 255, 255) !important;
 }
 
 .p-dm_browser_modal__list_heading {
-    font-size: 13px;
+    font-size: 19px;
     line-height: 1.38463;
     font-weight: 400;
     color: rgb(255, 255, 255) !important;
@@ -3612,7 +3612,7 @@ p-search_filter__from_name,
 }
 
 .p-dm_browser_modal__list_row_meta {
-    font-size: 13px;
+    font-size: 19px;
     line-height: 1.38463;
     font-weight: 400;
     color: rgb(255, 255, 255) !important;
@@ -3631,7 +3631,7 @@ p-search_filter__from_name,
 }
 
 .p-dm_browser_modal__controls_meta {
-    font-size: 13px;
+    font-size: 19px;
     line-height: 1.38463;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.7) !important;
@@ -3668,7 +3668,7 @@ p-search_filter__from_name,
 }
 
 .p-classic_nav__channel_header__subtitle {
-    font-size: 13px;
+    font-size: 19px;
     line-height: 1.38463;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.7) !important;
@@ -3694,7 +3694,7 @@ c-search_autocomplete__query_parts .token:hover {
 }
 
 .p-classic_nav__model__title__name {
-    font-size: 18px;
+    font-size: 24px;
     line-height: 1.33334;
     font-weight: 900;
     display: inline-flex;
@@ -3742,7 +3742,7 @@ c-search_autocomplete__query_parts .token:hover {
     background-color: #4f4e4e !important;
 
     .c-select_options_list__option {
-        font-size: 15px;
+        font-size: 21px;
         line-height: 1.46668;
         font-weight: 400;
         display: flex;
@@ -3782,7 +3782,7 @@ c-search_autocomplete__query_parts .token:hover {
     }
 
     .p-message_pane_input__preview_subtitle {
-        font-size: 18px;
+        font-size: 24px;
         line-height: 1.33334;
         font-weight: 900;
         font-weight: 400;
