@@ -3694,7 +3694,7 @@ c-search_autocomplete__query_parts .token:hover {
 }
 
 .p-classic_nav__model__title__name {
-    font-size: 24px;
+    font-size: 18px;
     line-height: 1.33334;
     font-weight: 900;
     display: inline-flex;
